@@ -13,28 +13,29 @@ namespace market
 {
     public partial class frmBill : Form
     {
+
         frmMain frmMain1;
-        int idbill;
-       public List<Bill> billList = new List<Bill>();
-        List<Article> articles = new List<Article>();
-        List<Article> articlesBill = new List<Article> { };
-        List<Article> articlesSave = new List<Article> { };
-        int idArt = 0;
-        string nameArt = "";
-        string nameClient = "Cliente";
-        float price = 0;
-        float amount = 0;
-        float tsum = 0;
+        public List<Article> articles = new List<Article>();
+        public List<Article> articlesBill = new List<Article> { };
+        public List<Bill> billList2 = new List<Bill>();
+        public int idArt = 0;
+        public string nameArt = "";
+        public string nameClient = "Cliente";
+        public float price = 0;
+        public float amount = 0;
+        public float tsum = 0;
+        public int idBill;
         public frmBill(int id, List<Article> art, frmMain frm)
         {
-            idbill = id;
             InitializeComponent();
-            lblShowID.Text = idbill.ToString();
+            frmMain frmMain1;
+            idBill = id;
+            lblShowID.Text = idBill.ToString();
             articles = art;
             txtName.Text = "Cliente";
             lblAllPriceShow.Text = nameClient;
-            frmMain1 = frm;
-            billList = frm.billList1;
+           
+            
         }
 
         private void frmBill_Load(object sender, EventArgs e)
@@ -115,20 +116,23 @@ namespace market
 
         private void btnSave_Click(object sender, EventArgs e)
         {
-            billList.Add(new Bill(idbill, nameClient, articlesBill, tsum));
-            frmMain1.chargeListMain(billList);
+          
+            frmMain f1 = Owner as frmMain;
+            f1.addListBill(idBill, nameClient, articlesBill, tsum);
+            f1.chargeListMain();
             Close();
+            
         }
 
         private void dgvitems_CellContentClick_1(object sender, DataGridViewCellEventArgs e)
         {
-
+            
         }
 
         private void frmBill_FormClosing(object sender, FormClosingEventArgs e)
         {
-            
-            frmMain1.Show();
+
+
             
         }
     }

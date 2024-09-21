@@ -11,16 +11,16 @@ namespace market
     public class Bill
     {
         // Property to article the id of the bill
-        int ID { get; set; }
+        public int ID { get; set; }
 
         // Property to store the client's name
-        string ClientName { get; set; }
+        public string ClientName { get; set; }
 
         // Property to store the list of purchased items
-        List<Article> Items { get; set; }
+        public List<Article> Items { get; set; }
 
         // Private property to store the total amount of the bill
-        float Total { get; set; }
+        public float Total { get; set; }
         #endregion
 
         #region Constructor

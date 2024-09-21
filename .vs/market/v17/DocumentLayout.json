@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Guada Karaoke\\source\\repos\\market\\",
+  "WorkspaceRootPath": "C:\\Source\\market\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|c:\\users\\guada karaoke\\source\\repos\\market\\market\\frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|c:\\source\\market\\market\\frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|solutionrelative:market\\frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|c:\\users\\guada karaoke\\source\\repos\\market\\market\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|c:\\source\\market\\market\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|solutionrelative:market\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|C:\\Source\\market\\market\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|solutionrelative:market\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|c:\\source\\market\\market\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|solutionrelative:market\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|c:\\source\\market\\market\\frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|solutionrelative:market\\frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,30 +30,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\Source\\market\\market\\Bill.cs",
+              "RelativeDocumentMoniker": "market\\Bill.cs",
+              "ToolTip": "C:\\Source\\market\\market\\Bill.cs",
+              "RelativeToolTip": "market\\Bill.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:20:32.785Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "frmBill.cs",
-              "DocumentMoniker": "C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\frmBill.cs",
+              "DocumentMoniker": "C:\\Source\\market\\market\\frmBill.cs",
               "RelativeDocumentMoniker": "market\\frmBill.cs",
-              "ToolTip": "C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\frmBill.cs",
+              "ToolTip": "C:\\Source\\market\\market\\frmBill.cs",
               "RelativeToolTip": "market\\frmBill.cs",
-              "ViewState": "AQIAAHwAAADAmZmZmZkmwCQAAAAlAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwBMAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T02:54:49.466Z",
+              "WhenOpened": "2024-09-21T19:51:10.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "frmMain.cs",
-              "DocumentMoniker": "C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\frmMain.cs",
+              "DocumentMoniker": "C:\\Source\\market\\market\\frmMain.cs",
               "RelativeDocumentMoniker": "market\\frmMain.cs",
-              "ToolTip": "C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\frmMain.cs",
+              "ToolTip": "C:\\Source\\market\\market\\frmMain.cs",
               "RelativeToolTip": "market\\frmMain.cs",
-              "ViewState": "AQIAAAsAAAAAMjMzMzPjvyMAAAAmAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAWwDsAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T21:17:48.791Z",
               "EditorCaption": ""
@@ -58,9 +75,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "frmMain.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\frmMain.cs",
+              "DocumentMoniker": "C:\\Source\\market\\market\\frmMain.cs",
               "RelativeDocumentMoniker": "market\\frmMain.cs",
-              "ToolTip": "C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\frmMain.cs [Design]",
+              "ToolTip": "C:\\Source\\market\\market\\frmMain.cs [Design]",
               "RelativeToolTip": "market\\frmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T23:50:13.056Z",
@@ -68,11 +85,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "frmBill.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\frmBill.cs",
+              "DocumentMoniker": "C:\\Source\\market\\market\\frmBill.cs",
               "RelativeDocumentMoniker": "market\\frmBill.cs",
-              "ToolTip": "C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\frmBill.cs [Design]",
+              "ToolTip": "C:\\Source\\market\\market\\frmBill.cs [Design]",
               "RelativeToolTip": "market\\frmBill.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T16:33:55.213Z",

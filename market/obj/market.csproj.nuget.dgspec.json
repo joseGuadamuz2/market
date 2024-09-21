@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\market.csproj": {}
+    "C:\\Source\\market\\market\\market.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\market.csproj": {
+    "C:\\Source\\market\\market\\market.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\market.csproj",
+        "projectUniqueName": "C:\\Source\\market\\market\\market.csproj",
         "projectName": "market",
-        "projectPath": "C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\market.csproj",
+        "projectPath": "C:\\Source\\market\\market\\market.csproj",
         "packagesPath": "C:\\Users\\Guada Karaoke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\obj\\",
+        "outputPath": "C:\\Source\\market\\market\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
