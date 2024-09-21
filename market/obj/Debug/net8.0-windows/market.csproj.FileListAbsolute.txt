@@ -1,0 +1,17 @@
+C:\Users\Guada Karaoke\source\repos\market\market\obj\Debug\net8.0-windows\market.frmMain.resources
+C:\Users\Guada Karaoke\source\repos\market\market\obj\Debug\net8.0-windows\market.csproj.GenerateResource.cache
+C:\Users\Guada Karaoke\source\repos\market\market\obj\Debug\net8.0-windows\market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guada Karaoke\source\repos\market\market\obj\Debug\net8.0-windows\market.AssemblyInfoInputs.cache
+C:\Users\Guada Karaoke\source\repos\market\market\obj\Debug\net8.0-windows\market.AssemblyInfo.cs
+C:\Users\Guada Karaoke\source\repos\market\market\obj\Debug\net8.0-windows\market.csproj.CoreCompileInputs.cache
+C:\Users\Guada Karaoke\source\repos\market\market\bin\Debug\net8.0-windows\market.exe
+C:\Users\Guada Karaoke\source\repos\market\market\bin\Debug\net8.0-windows\market.deps.json
+C:\Users\Guada Karaoke\source\repos\market\market\bin\Debug\net8.0-windows\market.runtimeconfig.json
+C:\Users\Guada Karaoke\source\repos\market\market\bin\Debug\net8.0-windows\market.dll
+C:\Users\Guada Karaoke\source\repos\market\market\bin\Debug\net8.0-windows\market.pdb
+C:\Users\Guada Karaoke\source\repos\market\market\obj\Debug\net8.0-windows\market.dll
+C:\Users\Guada Karaoke\source\repos\market\market\obj\Debug\net8.0-windows\refint\market.dll
+C:\Users\Guada Karaoke\source\repos\market\market\obj\Debug\net8.0-windows\market.pdb
+C:\Users\Guada Karaoke\source\repos\market\market\obj\Debug\net8.0-windows\market.genruntimeconfig.cache
+C:\Users\Guada Karaoke\source\repos\market\market\obj\Debug\net8.0-windows\ref\market.dll
+C:\Users\Guada Karaoke\source\repos\market\market\obj\Debug\net8.0-windows\market.frmBill.resources

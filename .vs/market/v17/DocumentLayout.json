@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Guada Karaoke\\source\\repos\\market\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|c:\\users\\guada karaoke\\source\\repos\\market\\market\\frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|solutionrelative:market\\frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|c:\\users\\guada karaoke\\source\\repos\\market\\market\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|solutionrelative:market\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|solutionrelative:market\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B0A6FDC-C047-4CEF-9819-0D9EEB52335F}|market\\market.csproj|solutionrelative:market\\frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBill.cs",
+              "DocumentMoniker": "C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\frmBill.cs",
+              "RelativeDocumentMoniker": "market\\frmBill.cs",
+              "ToolTip": "C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\frmBill.cs",
+              "RelativeToolTip": "market\\frmBill.cs",
+              "ViewState": "AQIAAHwAAADAmZmZmZkmwCQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T02:54:49.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\frmMain.cs",
+              "RelativeDocumentMoniker": "market\\frmMain.cs",
+              "ToolTip": "C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\frmMain.cs",
+              "RelativeToolTip": "market\\frmMain.cs",
+              "ViewState": "AQIAAAsAAAAAMjMzMzPjvyMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:17:48.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\frmMain.cs",
+              "RelativeDocumentMoniker": "market\\frmMain.cs",
+              "ToolTip": "C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\frmMain.cs [Design]",
+              "RelativeToolTip": "market\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T23:50:13.056Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmBill.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\frmBill.cs",
+              "RelativeDocumentMoniker": "market\\frmBill.cs",
+              "ToolTip": "C:\\Users\\Guada Karaoke\\source\\repos\\market\\market\\frmBill.cs [Design]",
+              "RelativeToolTip": "market\\frmBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:33:55.213Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
