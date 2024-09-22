@@ -72,36 +72,53 @@ namespace market
         // Event handler for searching an article by its ID
         private void btnSearchArticle_Click(object sender, EventArgs e)
         {
-            // Loop through the articles list to find the one matching the entered ID
-            foreach (var article in articles)
+            try
             {
-                if (article.ID.ToString() == txtID.Text)
+                // Loop through the articles list to find the one matching the entered ID
+                foreach (var article in articles)
                 {
-                    // Display article details (name, amount, price) and assign values to variables
-                    lblNameProdutShow.Text = article.Name;
-                    txtAmount.Text = article.Amount.ToString();
-                    lblPriceShow.Text = article.Price.ToString();
-                    idArt = article.ID;
-                    nameArt = article.Name;
-                    price = float.Parse(article.Price.ToString());
-                    amount = float.Parse(article.Amount.ToString());
+                    if (article.ID.ToString() == txtID.Text)
+                    {
+                        // Display article details (name, amount, price) and assign values to variables
+                        lblNameProdutShow.Text = article.Name;
+                        txtAmount.Text = article.Amount.ToString();
+                        lblPriceShow.Text = article.Price.ToString();
+                        idArt = article.ID;
+                        nameArt = article.Name;
+                        price = float.Parse(article.Price.ToString());
+                        amount = float.Parse(article.Amount.ToString());
+                    }
                 }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Ha ocurrido un error: {ex.Message}", "Error",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
-        // Event handler for adding an article to the bill
-        private void btnAddArticle_Click(object sender, EventArgs e)
+
+            // Event handler for adding an article to the bill
+            private void btnAddArticle_Click(object sender, EventArgs e)
         {
-            // Get the entered amount and calculate the total price for that article
-            amount = float.Parse(txtAmount.Text);
-            price = price * float.Parse(txtAmount.Text);
+            try
+            {
+                // Get the entered amount and calculate the total price for that article
+                amount = float.Parse(txtAmount.Text);
+                price = price * float.Parse(txtAmount.Text);
 
-            // Add the article to the bill's article list
-            articlesBill.Add(new Article(idArt, nameArt, price, amount));
+                // Add the article to the bill's article list
+                articlesBill.Add(new Article(idArt, nameArt, price, amount));
 
-            // Update the total sum and refresh the data grid view
-            totalSum();
-            chargedata();
+                // Update the total sum and refresh the data grid view
+                totalSum();
+                chargedata();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Ha ocurrido un error: {ex.Message}", "Error",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         // Event handler when the user enters the article ID text box
