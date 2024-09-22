@@ -93,7 +93,6 @@
             dgvitems.Name = "dgvitems";
             dgvitems.Size = new Size(551, 192);
             dgvitems.TabIndex = 4;
-            dgvitems.CellContentClick += dgvitems_CellContentClick_1;
             // 
             // ldlIDArticle
             // 
@@ -240,8 +239,6 @@
             Name = "frmBill";
             StartPosition = FormStartPosition.CenterParent;
             Text = "frmBill";
-            FormClosing += frmBill_FormClosing;
-            Load += frmBill_Load;
             ((System.ComponentModel.ISupportInitialize)dgvitems).EndInit();
             ((System.ComponentModel.ISupportInitialize)bindingSource1).EndInit();
             ResumeLayout(false);
