@@ -11,7 +11,7 @@ namespace market
         #region Variables
 
         // Constant for the local market name
-        const string marketName = "Verdulería Cuendis";
+        const string marketName = "Verdulería Los Cuendis";
 
         // Counter to track bill numbers
         int counter = 0;
