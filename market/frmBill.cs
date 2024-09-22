@@ -126,6 +126,7 @@ namespace market
         // Event handler for saving the current bill
         private void btnSave_Click(object sender, EventArgs e)
         {
+            nameClient = txtName.Text;
             // Cast the owner form to frmMain and add the current bill to the main form's list
             frmMain f1 = Owner as frmMain;
             f1.addListBill(idBill, nameClient, articlesBill, tsum);

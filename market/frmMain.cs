@@ -98,6 +98,7 @@ namespace market
         // Method to add a new bill to the list
         public void addListBill(int idbill, string nameClient, List<Article> articlesBill, float tsum)
         {
+            
             // Add a new bill with the provided information
             billList.Add(new Bill(idbill, nameClient, articlesBill, tsum));
         }
